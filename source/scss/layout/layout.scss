@@ -1,0 +1,39 @@
+.bloco {
+	display: flex;
+	border: 1px solid #000000;
+	background-color: #eeeeee;
+}
+
+.bloco-cabecalho {
+	height: 100px;	
+	justify-content: center;
+	align-items: center;
+}
+
+.bloco-cartoes {
+	padding: 20px;
+	flex-direction: column;
+}
+
+.bloco-cartoes-titulo {
+	color: green;
+}
+
+.bloco-cartoes-texto {
+	color: gray;
+}
+
+.bloco-chamada {
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bloco-chamada-item {
+	padding: 20px;
+}
+
+.bloco-rodape {
+	height: 100px;
+	justify-content: center;
+	align-items: center;	
+}

@@ -1,0 +1,12 @@
+##
+# Diretorios do ambiente
+#
+dist/
+node_modules/
+source/vendor/
+
+##
+# Arquivos do ambiente
+#
+package-lock.json
+.directory

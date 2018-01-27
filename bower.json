@@ -1,0 +1,28 @@
+{
+  "name": "layout",
+  "description": "Atividade do módulo 7 - Layout - do curso Certificação Bootstrap",
+  "main": "index.js",
+  "authors": [
+    "Getulio Vinicius <getuliovinits@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "bootstrap",
+    "certificacao",
+    "atividade",
+    "layout",
+    "gulp"
+  ],
+  "homepage": "https://github.com/getuliovinicius/layout#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-beta"
+  }
+}
